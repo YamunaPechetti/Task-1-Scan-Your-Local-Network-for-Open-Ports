@@ -11,13 +11,13 @@ PORT     STATE SERVICE
 8443/tcp open  https-alt
 MAC Address: 7C:BF:77:4C:9F:A3 (Speedtech)
 
-Nmap scan report for OPPO-Reno11-5G.lan (192.168.31.60)
+Nmap scan report for OPPO-XXXX-XX.lan (192.168.31.60)
 Host is up (0.0057s latency).
 All 1000 scanned ports on OPPO-Reno11-5G.lan (192.168.31.60) are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 MAC Address: 06:60:E4:2C:97:E4 (Unknown)
 
-Nmap scan report for DESKTOP-94MBM5S.lan (192.168.31.149)
+Nmap scan report for DESKTOP-XXXXXX.lan (192.168.31.149)
 Host is up (0.000042s latency).
 Not shown: 993 closed tcp ports (reset)
 PORT     STATE SERVICE
